@@ -44,8 +44,10 @@ All necessary information for doing this, and the next two exercises, can be fou
 
 You can do the diagrams with any program, but perhaps the easiest and the best way to do diagrams is the Mermaid syntax that is now implemented in GitHub Markdown pages!
 
-0.5: Single page app diagram
+0.5: Single page app diagram: [Link to Solution](https://github.com/AbdessamadAe/Fullstack_Open_Part0/blob/main/Visiting_spa.md)
+
 Create a diagram depicting the situation where the user goes to the single-page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
 
-0.6: New note in Single page app diagram
+0.6: New note in Single page app diagram: [Link to Solution](https://github.com/AbdessamadAe/Fullstack_Open_Part0/blob/main/New_note_spa.md)
+
 Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.

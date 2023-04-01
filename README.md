@@ -1,22 +1,8 @@
 # Fullstack_Open_Part0
-Exercises 0.1.-0.6.
+Exercises 0.4.-0.6.
 
-0.1: HTML
-Review the basics of HTML by reading this tutorial from Mozilla: HTML tutorial.
+0.4: New note diagram: [Link to Solution](https://github.com/AbdessamadAe/Fullstack_Open_Part0/blob/main/New_note.md)
 
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-0.2: CSS
-Review the basics of CSS by reading this tutorial from Mozilla: CSS tutorial.
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-0.3: HTML forms
-Learn about the basics of HTML forms by reading Mozilla's tutorial Your first form.
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-0.4: New note diagram
 In the section Loading a page containing JavaScript - review, the chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes is depicted as a sequence diagram
 
 The diagram was made as a GitHub Markdown-file using the Mermaid-syntax, as follows:
